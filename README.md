@@ -2,4 +2,4 @@
 @ Начало разработки - 02 апреля 2025 года.
 
 # Документация
-Документация по локальной структуре доступна [здесь](https://github.com/verimash/radioplanning/blob/main/docs/docs.md)
+Документация по локальной структуре доступна [здесь](https://github.com/verimash/radiomobile/blob/main/docs/docs.md)
